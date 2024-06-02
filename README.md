@@ -46,26 +46,26 @@ Test용 ID/PW : dfddf0 / 123456
 
 ### 메인 화면
 
-![Main View](https://lab.ssafy.com/s10-webmobile1-sub2/S10P12A207/-/raw/master/readmeAssets/Maingif.gif)
+![Main View](./readmeAssets/Maingif.gif)
 
 
 <br/>
 
 ### 회원 가입 화면
 
-![선택](https://lab.ssafy.com/s10-webmobile1-sub2/S10P12A207/-/raw/master/readmeAssets/SellListgif.gif)
+![선택](./readmeAssets/SellListgif.gif)
 
 가입자 선택화면
 
 <br/>
 
-![작가 가입](https://lab.ssafy.com/s10-webmobile1-sub2/S10P12A207/-/raw/master/readmeAssets/ArtistSignin.png)
+![작가 가입](./readmeAssets/ArtistSignin.png)
 
 작가 회원가입 입력화면
 
 <br/>
 
-![멤버 가입](https://lab.ssafy.com/s10-webmobile1-sub2/S10P12A207/-/raw/master/readmeAssets/MemberSignin.png)
+![멤버 가입](./readmeAssets/MemberSignin.png)
 
 일반 회원가입 입력화면
 
@@ -73,7 +73,7 @@ Test용 ID/PW : dfddf0 / 123456
 
 ### 경매 참여
 
-![Auction Join](https://lab.ssafy.com/s10-webmobile1-sub2/S10P12A207/-/raw/master/readmeAssets/AuctionJoingif.gif)
+![Auction Join](./readmeAssets/AuctionJoingif.gif)
 
 - WebRTC 기능을 통한 경매 사이트 활성화.
 
@@ -83,7 +83,7 @@ Test용 ID/PW : dfddf0 / 123456
 
 ### 경매 진행
 
-![Auction](https://lab.ssafy.com/s10-webmobile1-sub2/S10P12A207/-/raw/master/readmeAssets/Auctiongif.gif)
+![Auction](./readmeAssets/Auctiongif.gif)
 
 - WebRTC를 사용하여 화상 경매를 진행함.
 
@@ -91,19 +91,19 @@ Test용 ID/PW : dfddf0 / 123456
 
 ### 작가 리스트 화면
 
-![작가 리스트](https://lab.ssafy.com/s10-webmobile1-sub2/S10P12A207/-/raw/master/readmeAssets/ArtistListgif.gif)
+![작가 리스트](./readmeAssets/ArtistListgif.gif)
 
 <br/>
 
 ### 작가 미니홈피 화면
 
-![Minihome](https://lab.ssafy.com/s10-webmobile1-sub2/S10P12A207/-/raw/master/readmeAssets/ArtistMinihomegif.gif)
+![Minihome](./readmeAssets/ArtistMinihomegif.gif)
 
 <br/>
 
 ### MyPage, 개인정보 화면
 
-![my Page](https://lab.ssafy.com/s10-webmobile1-sub2/S10P12A207/-/raw/master/readmeAssets/MyPageGif.gif)
+![my Page](./readmeAssets/MyPageGif.gif)
 
 
 - MyPage에서 회원정보, 포인트 충전, 결제 내역 관리
@@ -113,11 +113,11 @@ Test용 ID/PW : dfddf0 / 123456
 
 ### LogIn & LogOut
 
-![Login](https://lab.ssafy.com/s10-webmobile1-sub2/S10P12A207/-/raw/master/readmeAssets/Logingif.gif)
+![Login](./readmeAssets/Logingif.gif)
 
 로그인
 
-![Logout](https://lab.ssafy.com/s10-webmobile1-sub2/S10P12A207/-/raw/master/readmeAssets/Logoutgif.gif)
+![Logout](./readmeAssets/Logoutgif.gif)
 
 로그아웃
 
@@ -127,17 +127,17 @@ Test용 ID/PW : dfddf0 / 123456
 
 ### 판매 리스트 화면
 
-![Product](https://lab.ssafy.com/s10-webmobile1-sub2/S10P12A207/-/raw/master/readmeAssets/SellListgif.gif)
+![Product](./readmeAssets/SellListgif.gif)
 
 - Pagination 구현
 
 
-![Product_Login](https://lab.ssafy.com/s10-webmobile1-sub2/S10P12A207/-/raw/master/readmeAssets/SellList_Login.png)
+![Product_Login](./readmeAssets/SellList_Login.png)
 
 로그인 상태 판매 리스트
 <br/>
 
-![Product_LogOut](https://lab.ssafy.com/s10-webmobile1-sub2/S10P12A207/-/raw/master/readmeAssets/SellList_Logout.png)
+![Product_LogOut](./readmeAssets/SellList_Logout.png)
 
 로그아웃 상태 판매 리스트
 
@@ -147,19 +147,19 @@ Test용 ID/PW : dfddf0 / 123456
 
 ### 판매 상품 상세 화면
 
-![판매 상세](https://lab.ssafy.com/s10-webmobile1-sub2/S10P12A207/-/raw/master/readmeAssets/SellListDetail.png)
+![판매 상세](./readmeAssets/SellListDetail.png)
 
 <br/>
 
 ### 경매 리스트 화면
 
-![경매리스트_로그아웃](https://lab.ssafy.com/s10-webmobile1-sub2/S10P12A207/-/raw/master/readmeAssets/AuctionList_Logout.png)
+![경매리스트_로그아웃](./readmeAssets/AuctionList_Logout.png)
 
 로그아웃 상태
 
 <br/>
 
-![경매리스트_로그인](https://lab.ssafy.com/s10-webmobile1-sub2/S10P12A207/-/raw/master/readmeAssets/AuctionList_Login.png)
+![경매리스트_로그인](./readmeAssets/AuctionList_Login.png)
 
 로그인 상태
 
